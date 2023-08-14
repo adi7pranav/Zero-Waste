@@ -52,8 +52,8 @@ The screenshot section of the Goods Donation App showcases the user interface an
 <img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/9c5c0dca-e673-4e8b-9dd0-888ca675c8f6" width="400"/></img>
 <img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/f779e04e-0360-43a6-8d50-f2bfbcdc0a66" width="420"/></img>
 ### MapScreen
-<img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/eef782a4-684d-4ef3-bd11-ed4a540f815b" width="440"/></img>
-<img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/52fbaa48-50f6-4642-a9c2-9657b43ed47f" width="400"/></img>
+<img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/eef782a4-684d-4ef3-bd11-ed4a540f815b" width="400" /></img>
+<img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/52fbaa48-50f6-4642-a9c2-9657b43ed47f" width="365"/></img>
 ### Firebase Authentication and Database
 #### Firebase Authentication
 <img src="https://github.com/adi7pranav/Zero-Waste/assets/84617438/22357725-bcc6-4707-b627-12640f529f32" /></img>
